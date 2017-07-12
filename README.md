@@ -1,4 +1,7 @@
 # HobbyLog
-Serve as database for hobby mediums (ie model kits, figures, LEGO)
+Serve as database for Palmo (ie model kits, figures, LEGO)
 
-Test
+//search
+//log
+//buy
+//share
